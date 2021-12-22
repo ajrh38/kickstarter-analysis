@@ -27,8 +27,10 @@ Analysis based on “Outcomes_vs_Goals.png” (https://github.com/ajrh38/kicksta
 A good conclusion is that a goal of +$45,000 has the highest potential of failure.
 
 6.	Challenges and Difficulties Encountered
+
 Formatting in actual  “dates” required in order to do an actual validation on years.
 On countifs is very important to consider the lower and EQUAL otherwise you might loose or duplicate records. It is very important to do a double check. I did a filtering and quick count to verify my ranges were matching with the total of my countifs calculations.
 7.	Conclusion
+
 There are  limitations in the previous analysis. It will be very important to review if the data is normalized and if we require to remove certain data sets that are outside the boundaries of the quartiles.
 Stacked line charts or Bar charts with 2 axis would help us to review relationship between more variables like including spotlight or even a graph that combine the relationship between goal and launch date.
