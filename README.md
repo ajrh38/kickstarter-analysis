@@ -25,6 +25,7 @@ A good conclusion is that a goal of +$45,000 has the highest potential of failur
 
 Formatting in actual  “dates” required in order to do an actual validation on years.
 On countifs is very important to consider the lower and EQUAL otherwise you might loose or duplicate records. It is very important to do a double check. I did a filtering and quick count to verify my ranges were matching with the total of my countifs calculations.
+
 7.	Conclusion
 
 There are  limitations in the previous analysis. It will be very important to review if the data is normalized and if we require to remove certain data sets that are outside the boundaries of the quartiles.
