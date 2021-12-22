@@ -1,7 +1,5 @@
 # kickstarter-analysis
 Repository to deliver 1st challenge - Data Analytics bootcamp. This is an analysis on outcome based kickstarted campains.
-
-
 1.	Overview of Project
 This analysis show a comphrenesive study on why Louise’s play “Fever” did not achieve fundraising goal. There is a belief that the time range was an important factor to come close but not enough to be funded.  This project will address using statistical analysis if louise’s guess is correct. 
 2.	Purpose
@@ -14,12 +12,9 @@ Using the provided data set, analyze the relationship between launch dates and f
 4.	Analysis of Outcomes Based on Launch Date
 
 Based on launch date.
-
-
 Analysis in graph Theater_Outcomes_vs_Launch.png (https://github.com/ajrh38/kickstarter-analysis/blob/8ad26982d3fe48cf343688b09731b97514ca5591/Theater_Outcomes_vs_Launch.png) shows months in the year when there is a higher successful fundraiser. Looking at the data it shows that during April to May there was a higher number of successful campaigns vs fail. However “fever” took place in june which is still a high month in terms of fundraisers, this tell us the analysis in this graph is not enough to show that launch date is a CRITICAL factor to be successful in a campaign. Another conclusion is there is no significant difference on canceled projects depending on the month. 
 Another important consideration is, graph would be better for this specific case as %. We look at it by the total numbers of kickstarters but there could be a potential variable in the total number of successful vs failed, an example of this is Oct, no projects were cancelled and there was an increased in failures.
 Limitations of the data considered in the analysis might cause a incorrect analysis, it does not consider spotlights.
-
 
 5.	Analysis of Outcomes Based on Goals
 
